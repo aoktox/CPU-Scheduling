@@ -1,0 +1,26 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: project2 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\HP\AppData\Local\Temp\RSPF555.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/project2.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"C:\Linux\project2\fjjf-non.cpp"
+]
+Creating command line "cl.exe @C:\Users\HP\AppData\Local\Temp\RSPF555.tmp" 
+<h3>Output Window</h3>
+Compiling...
+fjjf-non.cpp
+C:\Linux\project2\fjjf-non.cpp(14) : warning C4508: 'main' : function should return a value; 'void' return type assumed
+
+
+
+<h3>Results</h3>
+fjjf-non.obj - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>
